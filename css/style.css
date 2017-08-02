@@ -1,0 +1,18 @@
+body {
+    display: block;
+}
+nav {
+   margin: auto 0;
+   float: right;
+}
+section {
+    height: 15em;
+    width: 15em;
+    border: 1px solid black;
+    margin: 1px;
+}
+.article-container {
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+}
